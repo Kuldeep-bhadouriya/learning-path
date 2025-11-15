@@ -205,7 +205,7 @@ async def main():
             print("  • (No resources found)")
             
     print("\n" + "=" * 60)
-    print("🎯 RECOMMENDED CAPSTONE PROJECT:")
+    print("🎯 RECOMMENDED PROJECT:")
     print("=" * 60)
     print(final_project_idea)
     print("=" * 60)
